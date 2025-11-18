@@ -1,3 +1,6 @@
+#Se ignoran tambien los archivos Mp4
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
